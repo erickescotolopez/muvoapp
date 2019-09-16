@@ -1,0 +1,104 @@
+.bg-blue-menu{
+	background-color: #ff6c0c;
+	color: #fff;
+	text-align: center;
+	
+}
+
+.block.bg-blue-menu{
+	margin-top: 0;
+	padding: 20px 0;
+}
+.circle-menu{
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	background-color: #681A1B;
+	color: #007CC8;
+	text-align: center;
+	display: block;
+	border-radius: 100%;
+	margin: 0 auto;
+}
+.bg-blue-menu .block-title{
+	color: #fff;
+	margin-top: 10px;
+	font-size: 16px;
+}
+
+.panel-left{
+	background-color: #ff6c0c;
+}
+.panel-left .list{
+	color: #fff;
+	font-size: 14px;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 5px 0;
+}
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+.card-producto h2{
+	font-size: 30px;
+}
+.card-producto i{
+	color: #D7C523;
+}
+.card-producto h3{
+	font-size: 16px;
+}
+.card-producto .card-header{
+	padding: 0;
+}
+.foto{
+	margin: 15px 0px;
+}
+
+
+.color-foto{
+	color:#ff6c0c;
+}
+
+.nombre-foto h4{
+	color:#ff6c0c;
+}
+
+.borde-foto {
+	border:1px;
+	border-color:#ff6c0c;
+	border-radius: 7px;
+}
+
+
+
+h1,h2,h3,h4,h5,h6{
+	margin:5px 0;
+}
+
+
+.centromili{
+text-align: center;
+}
+
+
+.titulonaranjamili{
+color:#ff6c0c;
+}
+
+.reviewmili{
+font-size:80px;
+margin-left: 20%;
+color:#ff6c0c;
+}
+
+.iconmili{
+font-size:120px;
+color:#ff6c0c;
+}
+
+.preciosmili{
+color:#ff6c0c;
+font-size:25px;
+}
