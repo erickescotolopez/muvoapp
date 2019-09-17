@@ -53,6 +53,14 @@ background-color: #ff6c0c;
 padding: 10px 27px; border-radius: 3px;	margin: 80px 25px
 }
 
+.btn-block{
+font-size:18px;
+color: #ffffff!important;
+background-color: #ff6c0c;
+padding: 10px 27px; border-radius: 3px;	margin: 80px 5px; width: 100%; text-align: center
+}
+
+.btn-mar{margin: 50% 25%!important}
 
 
 
