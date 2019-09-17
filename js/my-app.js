@@ -34,9 +34,27 @@ var myApp = new Framework7({
 		},
 		
 		{
+		path: '/favoritos/',
+    	url: 'favoritos.html',
+    	name: 'favoritos',	
+		},
+		
+		{
+		path: '/sobre_nosotros/',
+    	url: 'sobre_nosotros.html',
+    	name: 'sobre_nosotros',	
+		},
+		
+		{
 		path: '/formulario/',
     	url: 'formulario.html',
     	name: 'formulario',	
+		},
+		
+		{
+		path: '/estrellas/',
+    	url: 'estrellas.html',
+    	name: 'estrellas',	
 		},
 		
 		{

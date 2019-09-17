@@ -5,6 +5,108 @@
 	
 }
 
+
+.form-text{
+	color: #ff6c0c;
+	font-size: 24px;
+	font-weight: 800;
+}
+
+.form-text-solo {
+	color: #ff6c0c;
+	font-weight: lighter;
+}
+
+.btn-face{
+font-size:18px;
+color: #fff;
+background-color: #3b5998;
+padding: 15px;
+border-radius: 0;	
+}
+
+.btn-google{
+font-size:18px;
+color: #ff6c0c;
+background-color: #fff;
+padding: 15px;
+border-radius: 0;
+border-color: #ff6c0c;
+border: 2px solid;
+}
+
+.btn-email{
+font-size:18px;
+color: #fff;
+background-color: #ff6c0c;
+padding: 15px;
+border-radius: 0;	
+}
+
+.espacio-botones{
+	padding: 3%;
+}
+
+
+
+.centromili{
+text-align: center;
+}
+
+
+
+.titulonaranjamili{
+color:#ff6c0c;
+}
+
+.reviewmili{
+font-size:80px;
+margin-left: 20%;
+color:#ff6c0c;
+}
+
+.iconmili{
+font-size:120px;
+color:#ff6c0c;
+}
+
+.img-profile{margin: 20px}
+
+.border-service{border: 1px solid #ff6c0c; border-radius: 5px; margin: 10px 0px; padding: 10px}
+
+.preciosmili{
+color:#ff6c0c;
+font-size:25px;
+}
+
+	.page {
+	color: #ff6C0C;
+	font-size: 15px;
+		
+	}
+.tamano{
+	font-size: 50px;
+	
+}
+.centrado{
+	margin-left: 50px;
+	}
+.btn-nuevo{
+	text-transform: uppercase;
+	padding: 0.5% 1%;
+	color: #fff;
+	background-color: #ff6C0C;
+	border-radius: 0px;
+	margin-left: 75px;
+	
+}
+.boton-mena{
+	padding: 2%;
+}
+	
+
+.fondo-naranja{background-color: #ff6c0c; color: #ffffff!important; text-align: center }
+
 .block.bg-blue-menu{
 	margin-top: 0;
 	padding: 20px 0;
@@ -26,6 +128,8 @@
 	font-size: 16px;
 }
 
+.img-us{width: 75%; margin: 0px 35px}
+
 .panel-left{
 	background-color: #ff6c0c;
 }
@@ -33,6 +137,11 @@
 	color: #fff;
 	font-size: 14px;
 }
+
+
+
+.texto-naranja{color: #ff6c0c!important }
+
 h1,h2,h3,h4,h5,h6{
 	margin: 5px 0;
 }
@@ -71,34 +180,30 @@ h1,h2,h3,h4,h5,h6{
 	border-radius: 7px;
 }
 
+.padding{
+padding-left: 90px;
+}
 
+.enlace{
+color:#ff6c0c;
+}
 
+.btn-nuevo{
+	text-transform: uppercase;
+	padding: 0.5% 1%;
+	color: #fff;
+	background-color: #ff6C0C;
+	border-radius: 0px;
+	margin-left: 75px;
+	}
+.btn-margin{
+margin-left: 30%;
+
+	
+	
+	
 h1,h2,h3,h4,h5,h6{
 	margin:5px 0;
 }
 
 
-.centromili{
-text-align: center;
-}
-
-
-.titulonaranjamili{
-color:#ff6c0c;
-}
-
-.reviewmili{
-font-size:80px;
-margin-left: 20%;
-color:#ff6c0c;
-}
-
-.iconmili{
-font-size:120px;
-color:#ff6c0c;
-}
-
-.preciosmili{
-color:#ff6c0c;
-font-size:25px;
-}
