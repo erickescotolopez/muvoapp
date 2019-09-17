@@ -5,6 +5,13 @@
 	
 }
 
+.btn{margin: 120px 0px}
+
+.center {text-align: center!important}
+
+.formulario_color{color: #ff6c0c!important; font-weight: 500!important }
+
+.espacio-botones{ margin: 25px 0px}
 
 .form-text{
 	color: #ff6c0c;
@@ -17,35 +24,35 @@
 	font-weight: lighter;
 }
 
+
+
 .btn-face{
 font-size:18px;
-color: #fff;
+color: #ffffff!important;
 background-color: #3b5998;
-padding: 15px;
-border-radius: 0;	
+padding: 10px;
+border-radius: 3px;	margin: 80px 25px
 }
+
+
 
 .btn-google{
 font-size:18px;
 color: #ff6c0c;
 background-color: #fff;
-padding: 15px;
+padding:8px 18px; text-align: center;
 border-radius: 0;
 border-color: #ff6c0c;
-border: 2px solid;
+border: 2px solid; border-radius: 3px;	margin: 80px 25px
 }
 
 .btn-email{
 font-size:18px;
-color: #fff;
+color: #ffffff!important;
 background-color: #ff6c0c;
-padding: 15px;
-border-radius: 0;	
+padding: 10px 27px; border-radius: 3px;	margin: 80px 25px
 }
 
-.espacio-botones{
-	padding: 3%;
-}
 
 
 
@@ -53,7 +60,7 @@ border-radius: 0;
 text-align: center;
 }
 
-
+.img-form{text-align: center; width: 70%; margin: 10% 15%}
 
 .titulonaranjamili{
 color:#ff6c0c;
@@ -89,7 +96,7 @@ font-size:25px;
 	
 }
 .centrado{
-	margin-left: 50px;
+	margin-left: 1px;
 	}
 .btn-nuevo{
 	text-transform: uppercase;
@@ -104,6 +111,9 @@ font-size:25px;
 	padding: 2%;
 }
 	
+
+.borde-textarea{border: 1px solid #ff6c0c;}
+
 
 .fondo-naranja{background-color: #ff6c0c; color: #ffffff!important; text-align: center }
 
